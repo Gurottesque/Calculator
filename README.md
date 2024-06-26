@@ -20,6 +20,6 @@ Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu máquina.
    
 
 3. **link en vivo**
-   https://camilomunozal.github.io/contador-de-clicks/
+   https://main--peppy-sable-920168.netlify.app
 
 
