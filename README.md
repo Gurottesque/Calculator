@@ -11,11 +11,15 @@ Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu máquina.
    ```bash
    git clone https://github.com/tu_usuario/nombre_de_tu_repositorio.git
    cd nombre_de_tu_repositorio
-   Instala las dependencias:
-   npm install
    ```
+   
+2. Instala las dependencias:
+    ```
+   npm install
+    ```
+   
 
-2. **link en vivo**
+3. **link en vivo**
    https://camilomunozal.github.io/contador-de-clicks/
 
 
