@@ -1,16 +1,16 @@
-# Calculadora en React
+# React calculator
 
-Este es un proyecto sencillo de una calculadora desarrollada en React.
+This is a simple calculator made in React
 
-## Instalación
+## Installation
 
-Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu máquina.
+Check you have node js installed and clone this repository
 
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/nombre_de_tu_repositorio.git
-   cd nombre_de_tu_repositorio
+   git clone https://github.com/Gurottesque/Calculator
+   cd Calculator
    ```
    
 2. Instala las dependencias:
